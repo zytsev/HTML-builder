@@ -8,7 +8,6 @@
     "ci:format": "prettier --check ."
   },
   "author": "evgeniimal",
-  "main": "index.js",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/EvgeniiMal/html-builder-black/issues"
